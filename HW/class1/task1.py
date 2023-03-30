@@ -1,1 +1,1 @@
-print('rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr')
+print(sum(range(16, 25)))
