@@ -1,1 +1,1 @@
-print('r' * 50)
+print('rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr')
